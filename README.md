@@ -1,11 +1,11 @@
 # https://lawyerkirisheva.ru
 
-##### Вёрстка построена на модульных блоках с использованием CSS и JS-подходов, полностью адаптивна и поддерживает интерактивность без сторонних библиотек.
+#### Вёрстка построена на модульных блоках с использованием CSS и JS-подходов, полностью адаптивна и поддерживает интерактивность без сторонних библиотек.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README.png/1.png" alt="Изображение 1" style="height: 350px; margin-right: 10px;">
-  <img src="README.png/2.png" alt="Изображение 2" style="height: 350px; margin-right: 10px;">
-  <img src="README.png/3.png" alt="Изображение 3" style="height: 350px; margin-right: 10px;">
+  <img src="README.png/1.png" alt="Изображение 1" style="height: 300px; margin-right: 10px;">
+  <img src="README.png/2.png" alt="Изображение 2" style="height: 300px; margin-right: 10px;">
+  <img src="README.png/3.png" alt="Изображение 3" style="height: 300px; margin-right: 10px;">
 </div>
 
 ### Основные модули (блоки) вёрстки
